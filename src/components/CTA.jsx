@@ -39,13 +39,6 @@ export default function CTA() {
               Get In Touch <FaArrowRight />
             </a>
 
-            <a
-              href="/cv.pdf"
-              className="flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 transition"
-            >
-              <FaDownload /> Download CV
-            </a>
-
           </div>
 
         </div>

@@ -6,7 +6,7 @@ export default function Experience() {
   const experiences = [
     {
       icon: <FaLeaf />,
-      role: "Agricultural Extension Officer / Field Technician",
+      role: "Agricultural Trainer / Field Technician",
       place: "Meru University",
       year: "2024 – Present",
       current: true,
